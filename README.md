@@ -10,3 +10,14 @@ anthony
 
 -changer les deux figures et afficher image
 pavel
+
+
+
+
+-importer image, decouper (Anthony)
+
+-affiner les figures dans les variables (Arsenii)
+
+-changer les deux figures, (Pavel)
+
+-afficher image (?)
