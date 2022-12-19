@@ -12,8 +12,10 @@ anthony
 pavel
 
 
+----------------------------------------------------------------------------------------------------------
 
-
+Plan
+-----
 -importer image, decouper (Anthony)
 
 -affiner les figures dans les variables (Arsenii)
