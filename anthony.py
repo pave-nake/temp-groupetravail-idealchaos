@@ -1,5 +1,5 @@
 # -*- coding: utf-8 *-*
-#-decouper et affiner les figures dans des variables anthony
+#-importer image, decouper (Anthony)
 #-----------------------------------------------------
 # Projet Kensuke Koike
 #-----------------------------------------------------
