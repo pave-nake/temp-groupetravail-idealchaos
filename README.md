@@ -13,5 +13,5 @@ pavel
 
 
 ----------------------------------------------------------------------------------------------------------
-DONT TOUCH THIS,OVERWISE ITS CONFUSING WHEN THE PLAN CHANGES EVERY WEEK, UNDERSTOOD ?
+DONT TOUCH THIS,OVERWISE ITS CONFUSING WHEN THE PLAN CHANGES EVERY WEEK, UNDERSTOOD ? /friendly message from Anthony
 ----------------------------------------------------------------------------------------------------------
