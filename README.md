@@ -2,15 +2,11 @@
 group projet NSI 1er
 
 
--importer l'image et faire fonction pour decouper
-arsenii
+arseni- decoupe image et switch les positions des blocs
 
--decouper et affiner les figures dans des variables
-anthony
+anthony- decoupe image et tourne les blocs 
 
--changer les deux figures et afficher image
-pavel
-
+pavel- switch 2 formes de figures sur une image
 
 ----------------------------------------------------------------------------------------------------------
 DONT TOUCH THIS,OVERWISE ITS CONFUSING WHEN THE PLAN CHANGES EVERY WEEK, UNDERSTOOD ? 
