@@ -9,6 +9,6 @@ anthony- decoupe image et tourne les blocs
 pavel- switch 2 formes de figures sur une image
 
 ----------------------------------------------------------------------------------------------------------
-DONT TOUCH THIS,OVERWISE ITS CONFUSING WHEN THE PLAN CHANGES EVERY WEEK, UNDERSTOOD ? 
+veulliez pas modifier le plan de travail 
 ----------------------------------------------------------------------------------------------------------
-friendly message from Anthony
+
