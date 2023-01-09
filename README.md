@@ -13,14 +13,5 @@ pavel
 
 
 ----------------------------------------------------------------------------------------------------------
+DONT TOUCH THIS,OVERWISE ITS CONFUSING WHEN THE PLAN CHANGES EVERY WEEK, UNDERSTOOD ?
 ----------------------------------------------------------------------------------------------------------
-
-Plan, répartition du travail
------
--importer image, decouper (Anthony)
-
--affiner les figures dans les variables (Arsenii)
-
--changer les deux figures, (Pavel)
-
--afficher image (?)
