@@ -2,31 +2,24 @@
 
 from PIL import Image
 import numpy as np
-im = Image.open("images project.jpg")
+im = Image.open("test.jpg")
 im.show()
 
 
-im_new = Image.new("RGB", (512, 504), (128, 128, 128))
+print(im.format, im.size, im.mode)
 largeur, hauteur = im.size
+im_new = Image.new("RGB", (largeur+50,hauteur+50))
+for x in range(largeur) :
+    for y in range(hauteur) :
+        pixel=im.getpixel((x,y))
+        if (x<50,y>50):
+            im_new.putpixel((x+40,y-40),pixel)
+        else:
+            im_new.putpixel((x-40,y+40),pixel)
+        #if (x<50,y<50):
+           # im_new.putpixel((x+50,y+50),pixel)
+        #else:
+           # im_new.putpixel((x-50,y-50),pixel)
 
-image = np.asarray(im_new)
-nb_lignes,nb_colonnes,_ = image.shape
-
-image_sortie = np.copy(im)
-
-Image.fromarray(image).save("image_entree.jpg")
-Image.fromarray(image_sortie).save("image_sortie.jpg")
-
-image_entrée = Image.open("images project.jpg")
-image = np.asarray(im)
-
-print(image)
-
-Image.fromarray(image).save("output.png")
-
-
-
-
-
-
+im_new.show()
 
