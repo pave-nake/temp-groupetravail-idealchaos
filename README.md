@@ -2,7 +2,7 @@
 group projet NSI 1er
 
 
-arseni- decoupe image et switch les positions des blocs
+arsenii- decoupe image et switch les positions des blocs
 
 anthony- decoupe image et tourne les blocs 
 
